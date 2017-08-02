@@ -1,0 +1,14 @@
+body{
+	background-image: url(../images/31.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
+h1{
+   font-size: 68px;
+   color: #fff;
+}
+
+#logout{
+	top: 30px;
+}
